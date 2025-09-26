@@ -1,6 +1,6 @@
 # Project: PET-FEEDER-ESD 
-## NHÓM 2: BLT ESD
+## NHÓM 3: BLT ESD
 *GVHD: Bùi Quốc Bảo"*
 
-3 member: Võ Quốc Hoàng, Tô Trung Hiếu, Thái Khắc Hùng
+2 member: Võ Quốc Hoàng, Tô Trung Hiếu
 
